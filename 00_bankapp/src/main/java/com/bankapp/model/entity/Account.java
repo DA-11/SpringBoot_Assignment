@@ -16,6 +16,7 @@ public class Account {
 
 	public void setEmail(String email) {
 		
+		System.out.println("HELLO FROM GIT1");
 		this.email = email;
 	}
 
